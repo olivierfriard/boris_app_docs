@@ -129,13 +129,30 @@ The BORIS desktop should show you this message:
 
 * Input a description for your observation (optional)
 
-* If independent variables are defined, click on the **Independent variables** button
-and fill the values
+* If independent variables are defined, click on the **Independent var** button
+and fill the value for each variable.
 
 * Click the **Start observation** button
 
 
+5) Stop the observation
 
+* Click on the **Stop observation** red button. Confirm that you want to quit.
+
+6) Sending observation to BORIS desktop
+
+* Start the project Server on BORIS desktop (**File > Porject server**)
+
+* On BORIS App, open the project containing the observation to send.
+
+* Click the **Send observation** button
+
+* Select the observation you want to send in the observations' list
+
+* Input the URL of project server
+
+.. image:: send_observation2.png
+   :scale: 50%
 
 
 
