@@ -73,12 +73,12 @@ Use
 * Select BORIS App, you should see the following screen:
 
 .. image:: home.png
-   :scale: 100%
+   :scale: 80%
 
 * Click on **Download project** button
 
 .. image:: download_screen.png
-   :scale: 100%
+   :scale: 80%
 
 2) Transfer your project from BORIS Desktop to BORIS App user guide
 
@@ -88,11 +88,10 @@ Use
 
 * Start the project server (File > Project server)
 
-* Launch BORIS App user guide
+.. image:: project_server.png
+   :scale: 100%
 
-* Select "Download project"
-
-* Check the "Download from BORIS" (default)
+* Check the "Download from BORIS" checkbox (default)
 
 * Input the URL shown in BORIS Desktop (for example 192.168.1.2:1234)
 
