@@ -26,3 +26,10 @@ the Free Software Foundation; either version 2, or any later version.
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 `GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`_ for more details.
+
+
+Introduction
+============
+
+
+BORIS App is designed to be used with the **B**ehavioral **O**bservation **R**esearch **I**nteractive **S**oftware BORIS (desktop)
