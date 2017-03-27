@@ -73,12 +73,12 @@ Use
 * Select BORIS App, you should see the following screen:
 
 .. image:: home.png
-   :scale: 80%
+   :scale: 50%
 
 * Click on **Download project** button
 
 .. image:: download_screen.png
-   :scale: 80%
+   :scale: 50%
 
 2) Transfer your project from BORIS Desktop to BORIS App user guide
 
@@ -100,7 +100,7 @@ Use
 You should receive the project from BORIS Desktop and obtain the following message:
 
 .. image:: download_successfull.png
-   :scale: 80%
+   :scale: 50%
 
 The BORIS desktop should show you this message:
 
@@ -118,6 +118,24 @@ The BORIS desktop should show you this message:
 
 4) Start a new observation
 
+* Click the **New observation** button
+
+.. image:: new_observation.png
+   :scale: 50%
+   
+* Input an **Observation Id** (mandatory, this id must be unique in your project)
+
+* Change the date (optional)
+
+* Input a description for your observation (optional)
+
+* If independent variables are defined, click on the **Independent variables** button
+and fill the values
+
 * Click the **Start observation** button
+
+
+
+
 
 
