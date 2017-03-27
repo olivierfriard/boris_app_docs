@@ -34,7 +34,7 @@ Introduction
 
 **BORIS App** lets the user code for live observations.
 
-**BORIS App** is designed to be used with **BORIS** (**B** ehavioral **O** bservation **R** esearch **I** nteractive **S** oftware).
+**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software).
 
 **BORIS App** run on Android. You will have to install before the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_
 
@@ -68,12 +68,21 @@ Use
 
 1) Launch the BORIS App
 
-Go to
+* Start **Kivy Launcher** 
 
+* Select BORIS App, you should see the following screen:
+
+.. image:: home.png
+   :scale: 100%
+
+* Click on **Download project** button
+
+.. image:: download_screen.png
+   :scale: 100%
 
 2) Transfer your project from BORIS Desktop to BORIS App user guide
 
-* Launch BORIS
+* Launch **BORIS Desktop**
 
 * Open the project containing the ethogram
 
