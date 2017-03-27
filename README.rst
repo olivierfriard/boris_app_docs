@@ -32,4 +32,4 @@ Introduction
 ============
 
 
-BORIS App is designed to be used with the *B* ehavioral **O** bservation **R**esearch **I**nteractive **S**oftware BORIS (desktop)
+BORIS App is designed to be used with  **B** ehavioral **O** bservation **R** esearch **I** nteractive **S**oftware **BORIS** (desktop)
