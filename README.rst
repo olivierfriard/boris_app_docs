@@ -10,5 +10,5 @@ BORIS App user guide
 
 BORIS web site: `www.boris.unito.it <http://www.boris.unito.it>`_
 
-BORIS user guide: `http://boris.readthedocs.io <http://boris.readthedocs.io>`_
+BORIS user guide: `boris.readthedocs.io <http://boris.readthedocs.io>`_
 
