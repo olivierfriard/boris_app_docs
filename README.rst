@@ -58,3 +58,46 @@ Extract the ZIP archive on your computer and copy all files in
 
 
 
+Use
+===
+
+1) Launch the BORIS App
+
+Go to
+
+
+2) Transfer your project from BORIS Desktop to BORIS App user guide
+
+* Launch BORIS
+
+* Open the project containing the ethogram
+
+* Start the project server (File > Project server)
+
+* Launch BORIS App user guide
+
+* Select "Download project"
+
+* Check the "Download from BORIS" (default)
+
+* Input the URL shown in BORIS Desktop (for example 192.168.1.2:1234)
+
+* Click Download
+
+You should receive the project from BORIS Desktop
+
+
+3) Open the project and start a new observation
+
+* Select "Open project"
+
+* Select the project
+
+* Click "Open project"
+
+
+4) Start a new observation
+
+*
+
+
