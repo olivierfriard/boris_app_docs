@@ -32,4 +32,6 @@ Introduction
 ============
 
 
-BORIS App is designed to be used with  **B** ehavioral **O** bservation **R** esearch **I** nteractive **S** oftware  **BORIS** (desktop)
+**BORIS App** is designed to be used with **BORIS** (**B** ehavioral **O** bservation **R** esearch **I** nteractive **S** oftware).
+
+BORIS App run on Android (you will have to install the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_)
