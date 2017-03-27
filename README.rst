@@ -54,7 +54,12 @@ You can run Kivy applications on Android, on any device with Android 2.2 +.
 
 2) Install BORIS App on your Android device
 
-Extract the ZIP archive on your computer and copy all files in
+Extract the ZIP archive on your computer and the extracted directory (boris_app) to /sdcard/kivy/.
+
+
+/sdcard/kivy/boris_app
+
+
 
 
 
