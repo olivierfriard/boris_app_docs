@@ -93,24 +93,31 @@ Use
 
 * Check the "Download from BORIS" checkbox (default)
 
-* Input the URL shown in BORIS Desktop (for example 192.168.1.2:1234)
+* Input the URL shown in BORIS Desktop (for example 192.168.1.2:33149) without spaces
 
-* Click Download
+* Click **Download project** button
 
-You should receive the project from BORIS Desktop
+You should receive the project from BORIS Desktop and obtain the following message:
 
+.. image:: download_successfull.png
+   :scale: 80%
 
-3) Open the project and start a new observation
+The BORIS desktop should show you this message:
 
-* Select "Open project"
+.. image:: project_sent.png
+   :scale: 100%
 
-* Select the project
+3) Open the project
 
-* Click "Open project"
+* Click the **Open project** button
+
+* Select the new downloaded project
+
+* Click the **Open project** button
 
 
 4) Start a new observation
 
-*
+* Click the **Start observation** button
 
 
