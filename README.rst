@@ -32,6 +32,10 @@ Introduction
 ============
 
 
+**BORIS App** lets the user code for live observations.
+
 **BORIS App** is designed to be used with **BORIS** (**B** ehavioral **O** bservation **R** esearch **I** nteractive **S** oftware).
 
-BORIS App run on Android (you will have to install the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_)
+**BORIS App** run on Android. You will have to install before the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_
+
+
