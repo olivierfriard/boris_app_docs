@@ -82,7 +82,7 @@ Use
 .. image:: home.png
    :scale: 50%
 
-* Click on **Download project** button
+* Press the **Download project** button
 
 .. image:: download_screen.png
    :scale: 50%
@@ -102,7 +102,7 @@ Use
 
 * Input the URL shown in BORIS Desktop (for example 192.168.1.2:33149) without spaces
 
-* Click **Download project** button
+* Press the **Download project** button
 
 You should receive the project from BORIS Desktop and obtain the following message:
 
@@ -116,16 +116,16 @@ The BORIS desktop should show you this message:
 
 3) Open the project
 
-* Click the **Open project** button
+* Press the **Open project** button
 
 * Select the new downloaded project
 
-* Click the **Open project** button
+* Press the **Open project** button
 
 
 4) Start a new observation
 
-* Click the **New observation** button
+* Press the **New observation** button
 
 
 .. image:: new_observation.png
@@ -143,10 +143,10 @@ and fill the value for each variable.
 .. image:: independent_variables.png
    :scale: 50%
 
-* Click the **Start observation** button
+* Press the **Start observation** button
 
 You will obtain a screen with buttons corresponding to behaviors defined in your project.
-You can click on it to code behaviors. The event time will be recorded in your observation.
+You can press it to code behaviors. The event time will be recorded in your observation.
 
 If behavioral categories are defined in your project, the behaviors will be grouped by category and
 buttons will be colored.
@@ -157,7 +157,7 @@ buttons will be colored.
 
 5) Select the focal subject
 
-* Click on the **Select focal subject** button
+* Press the **Select focal subject** button
 
 * Select the focal subject. If the focal subject is already selected, the subject will be deselected.
 
@@ -172,7 +172,7 @@ The focal subject will be show in the green button (at left bottom).
 
 6) State events
 
-If you click on a state event, the corresponding behavior button will be highlighted in red until you click on it
+If you press on a state event, the corresponding behavior button will be highlighted in red until you press it again 
 to stop the state event.
  
 .. image:: state_event.png
@@ -188,7 +188,7 @@ If modifiers were added to behaviors, BORIS App will ask to select it.
 
 7) Stop the observation
 
-* Click on the **Stop observation** red button. Confirm that you want to quit.
+* Press the **Stop observation** red button. Confirm that you want to quit.
 
 The observation will be saved in the current project.
 
@@ -203,7 +203,7 @@ You can send an observation back to BORIS desktop
 
 * On BORIS App, open the project containing the observation to send.
 
-* Click the **Send observation** button
+* Press the **Send observation** button
 
 * Select the observation you want to send in the observations' list
 
@@ -212,7 +212,7 @@ You can send an observation back to BORIS desktop
 .. image:: send_observation2.png
    :scale: 50%
 
-* Click the **Send observation** button
+* Press the **Send observation** button
 
 The observation will be added to the current project of BORIS desktop. If an observation with same id already exists
 BORIS will ask you for renaming it or overwriting it.
