@@ -123,6 +123,7 @@ The BORIS desktop should show you this message:
 
 * Click the **New observation** button
 
+
 .. image:: new_observation.png
    :scale: 50%
    
@@ -139,6 +140,9 @@ and fill the value for each variable.
    :scale: 50%
 
 * Click the **Start observation** button
+
+You will obtain a screen with button corresponding to behaviors defined in your project.
+You can click on it to code behaviors.
 
 .. image:: running_observation.png
    :scale: 50%
