@@ -135,14 +135,25 @@ The BORIS desktop should show you this message:
 * If independent variables are defined, click on the **Independent var** button
 and fill the value for each variable.
 
+.. image:: independent_variables.png
+   :scale: 50%
+
 * Click the **Start observation** button
 
 .. image:: running_observation.png
    :scale: 50%
 
+
+
+
 5) Stop the observation
 
 * Click on the **Stop observation** red button. Confirm that you want to quit.
+
+The observation will be saved in the current project.
+
+
+
 
 6) Sending observation to BORIS desktop
 
