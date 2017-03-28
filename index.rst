@@ -144,9 +144,34 @@ and fill the value for each variable.
    :scale: 50%
 
 
+5) Select the focal subject
+
+* Click on the **Select focal subject** button
+
+* Select the focal subject. If the focal subject is already selected, the subject will be deselected.
+
+.. image:: select_focal_subject.png
+   :scale: 50%
 
 
-5) Stop the observation
+
+6) State events
+
+If you click on a state event, the corresponding behavior button will be highlighted in red until you click on it
+to stop the state event.
+ 
+.. image:: running_observation_selected_subject.png
+   :scale: 50%
+
+
+
+
+6) Modifiers
+
+If modifiers were added to behaviors, BORIS App will ask to select it.
+
+
+7) Stop the observation
 
 * Click on the **Stop observation** red button. Confirm that you want to quit.
 
@@ -155,7 +180,9 @@ The observation will be saved in the current project.
 
 
 
-6) Sending observation to BORIS desktop
+8) Sending observation to BORIS desktop
+
+You can send an observation back to BORIS desktop
 
 * Start the project Server on BORIS desktop (**File > Porject server**)
 
@@ -169,3 +196,8 @@ The observation will be saved in the current project.
 
 .. image:: send_observation2.png
    :scale: 50%
+
+* Click the **Send observation** button
+
+The observation will be added to the current project of BORIS desktop. If an observation with same id already exists
+BORIS will ask you for renaming it or overwriting it.
