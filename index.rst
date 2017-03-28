@@ -141,8 +141,11 @@ and fill the value for each variable.
 
 * Click the **Start observation** button
 
-You will obtain a screen with button corresponding to behaviors defined in your project.
-You can click on it to code behaviors.
+You will obtain a screen with buttons corresponding to behaviors defined in your project.
+You can click on it to code behaviors. The event time will be recorded in your observation.
+
+If behavioral categories are defined in your project, the behaviors will be grouped by category and
+buttons will be colored.
 
 .. image:: running_observation.png
    :scale: 50%
