@@ -70,6 +70,9 @@ Use
 
 * Start **Kivy Launcher** 
 
+.. image:: kivy_launcher.png
+   :scale: 50%
+
 * Select BORIS App, you should see the following screen:
 
 .. image:: home.png
@@ -153,7 +156,3 @@ and fill the value for each variable.
 
 .. image:: send_observation2.png
    :scale: 50%
-
-
-
-
