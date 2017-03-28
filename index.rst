@@ -128,7 +128,7 @@ The BORIS desktop should show you this message:
    
 * Input an **Observation Id** (mandatory, this id must be unique in your project)
 
-* Change the date (optional)
+* Change the date (optional, default: current date time)
 
 * Input a description for your observation (optional)
 
@@ -137,6 +137,8 @@ and fill the value for each variable.
 
 * Click the **Start observation** button
 
+.. image:: running_observation.png
+   :scale: 50%
 
 5) Stop the observation
 
