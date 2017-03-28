@@ -163,7 +163,11 @@ buttons will be colored.
 
 .. image:: select_focal_subject.png
    :scale: 50%
+   
+The focal subject will be show in the green button (at left bottom).
 
+.. image:: running_observation_selected_subject.png
+   :scale: 50%
 
 
 6) State events
@@ -171,7 +175,7 @@ buttons will be colored.
 If you click on a state event, the corresponding behavior button will be highlighted in red until you click on it
 to stop the state event.
  
-.. image:: running_observation_selected_subject.png
+.. image:: state_event.png
    :scale: 50%
 
 
