@@ -79,13 +79,15 @@ Go to
 
 * Start the project server (File > Project server)
 
-* Launch BORIS App user guide
 
-* Select "Download project"
+* Select "Download project" from the BORIS App main menu
+
+
+* Input the URL shown in BORIS Desktop (for example 192.168.1.2:1234)
 
 * Check the "Download from BORIS" (default)
 
-* Input the URL shown in BORIS Desktop (for example 192.168.1.2:1234)
+
 
 * Click Download
 
