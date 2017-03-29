@@ -12,9 +12,6 @@ BORIS App user guide
 
 
 
-BORIS web site: `www.boris.unito.it <http://www.boris.unito.it>`_
-
-BORIS user guide: `boris.readthedocs.io <http://boris.readthedocs.io>`_
 
 
 Legal
@@ -62,11 +59,13 @@ You can run Kivy applications on Android, on any device with Android 2.2 +.
 
 2) Install BORIS App on your Android device
 
+The BORIS App is available on the BORIS web site: `www.boris.unito.it <http://www.boris.unito.it>`_
+
+
 Extract the ZIP archive on your computer and the extracted directory (boris_app) to /sdcard/kivy/.
 
 
 /sdcard/kivy/boris_app
-
 
 
 
@@ -91,9 +90,15 @@ Use
 .. image:: download_screen.png
    :scale: 50%
 
+
+
+
 2) Transfer your project from BORIS Desktop to BORIS App user guide
 
 * Launch **BORIS Desktop**
+
+The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthedocs.io>`_
+
 
 * Open the project containing the ethogram
 
@@ -118,6 +123,9 @@ The BORIS desktop should show you this message:
 .. image:: project_sent.png
    :scale: 100%
 
+
+
+
 3) Open the project
 
 * Press the **Open project** button
@@ -125,6 +133,9 @@ The BORIS desktop should show you this message:
 * Select the new downloaded project
 
 * Press the **Open project** button
+
+
+
 
 
 4) Start a new observation
