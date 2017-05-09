@@ -241,5 +241,5 @@ These limitations will be fixed in next releases.
 
 * At the moment BORIS App can handle only **one** set of modifiers
 
-* BORIS App can not handle independent variables defined as "set of values"
+* BORIS App can not handle independent variables defined as **set of values**
 
