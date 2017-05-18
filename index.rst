@@ -94,21 +94,21 @@ Use
 
 2) Transfer your project from BORIS Desktop to BORIS App
 
-* Launch **BORIS Desktop**
+* Launch **BORIS** on your Desktop or Laptop computer
 
 The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthedocs.io>`_
 
 
-* Open the project containing the ethogram
+* Open the project containing the ethogram you want to transfer to BORIS App
 
 * Start the project server (File > Project server)
 
 .. image:: project_server.png
    :scale: 100%
 
-* Check the "Download from BORIS" checkbox (default)
+* On BORIS App check the "Download from BORIS" checkbox (default)
 
-* Input the URL shown in BORIS Desktop (for example 192.168.1.2:33149) without spaces
+* Input the URL shown in BORIS on Desktop/Laptop computer (for example 192.168.1.2:33149) without spaces
 
 * Press the **Download project** button
 
