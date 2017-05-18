@@ -12,7 +12,6 @@ BORIS App user guide
 
 
 
-
 Legal
 =====
 
@@ -36,7 +35,7 @@ Introduction
 
 **BORIS App** is an event logging app for live observations.
 
-**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software, v. 3.60+) and share with it the project format.
+**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software, v. 4+) and share with it the project format.
 
 **BORIS App** run on Android (2.2+). You will have to install the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_
 
