@@ -6,7 +6,7 @@ BORIS App user guide
 .. image:: logo_boris_500px.png
    :scale: 300%
 
-**version 0.2**
+**version 0.2.0**
 
 **Be careful! This version must be considered as an ALPHA version only for testing**
 
