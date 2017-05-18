@@ -92,7 +92,7 @@ Use
 
 
 
-2) Transfer your project from BORIS Desktop to BORIS App user guide
+2) Transfer your project from BORIS Desktop to BORIS App
 
 * Launch **BORIS Desktop**
 
