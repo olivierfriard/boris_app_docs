@@ -13,7 +13,6 @@ BORIS App user guide
 
 
 
-
 Legal
 =====
 
