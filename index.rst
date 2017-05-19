@@ -48,7 +48,8 @@ Introduction
 Installation
 ============
 
-1) Install the Kivy Launcher
+Install the Kivy Launcher
+-------------------------
 
 BORIS App is developped in Python using `Kivy <https://kivy.org>`_ as user interface.
 You must install the Kivy Launcher on your Android device before installing BORIS App.
@@ -58,7 +59,8 @@ https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en
 You can run Kivy applications on Android, on any device with Android 2.2 +.
 
 
-2) Install BORIS App on your Android device
+Install BORIS App on your Android device
+----------------------------------------
 
 The BORIS App is available on the BORIS web site: `www.boris.unito.it <http://www.boris.unito.it>`_
 
