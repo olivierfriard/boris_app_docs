@@ -148,7 +148,10 @@ Open the project
 * Press the **Open project** button
 
 
+BORIS App will show a summary of the selected project:
 
+.. image:: project_details.png.png
+   :scale: 50%
 
 
 Start a new observation
