@@ -26,7 +26,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 `GNU General Public License <http://www.gnu.org/copyleft/gpl.html>`_ for more details.
 
-
+.. toctree::
 
 
 Introduction
@@ -92,6 +92,8 @@ Launch the BORIS App
 
 
 
+
+
 Transfer your project from BORIS to BORIS App
 ---------------------------------------------
 
@@ -123,6 +125,8 @@ The BORIS desktop should show you this message:
 
 .. image:: project_sent.png
    :scale: 100%
+
+
 
 
 
@@ -172,7 +176,10 @@ buttons will be colored.
    :scale: 50%
 
 
-5) Select the focal subject
+
+
+Select the focal subject
+-------------------------
 
 * Press the **Select focal subject** button
 
