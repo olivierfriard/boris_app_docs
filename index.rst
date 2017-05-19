@@ -210,7 +210,8 @@ The focal subject will be show in the green button (at left bottom).
    :scale: 50%
 
 
-6) State events
+State events
+------------
 
 If you press on a state event, the corresponding behavior button will be highlighted in red until you press it again
 to stop the state event.
@@ -272,7 +273,9 @@ The observation will be saved in the current project.
 
 
 
-8) Sending observation to BORIS desktop
+Sending observation to BORIS
+-----------------------------
+
 
 You can send an observation back to BORIS running on your desktop/laptop computer (requires an internet connexion).
 
@@ -298,10 +301,8 @@ BORIS will ask you for renaming it or overwriting it.
 Limitations
 ===========
 
-These limitations will be fixed in next releases.
+These limitations should be fixed in next releases.
 
-
-* At the moment BORIS App can handle only **one** set of modifiers
 
 * BORIS App can not handle independent variables defined as **set of values**
 
