@@ -204,12 +204,27 @@ to stop the state event.
 
 
 
-6) Modifiers
+Modifiers
+------------
 
-If modifiers were added to behaviors, BORIS App will ask to select it.
+If modifiers are defined for the triggered behavior, BORIS App will show the modifiers page.
+
+They are 3 type of modifiers:
+
+* Single item selection from a list
+
+* Multiple items selection from a list
+
+* Numerical
+
+BORIS App will show you the various
 
 
-7) Stop the observation
+
+
+
+Stop the observation
+---------------------
 
 * Press the **Stop observation** red button. Confirm that you want to quit.
 
