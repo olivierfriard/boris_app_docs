@@ -102,6 +102,7 @@ Launch the BORIS App
 Transfer your project from BORIS to BORIS App
 ---------------------------------------------
 
+This operation requires an internet connexion.
 
 * Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it)
 
@@ -219,8 +220,8 @@ to stop the state event.
 
 
 
-Modifiers
-------------
+Modifiers selection
+-------------------
 
 If modifiers are defined for the triggered behavior, BORIS App will show the modifiers page.
 
@@ -236,15 +237,23 @@ Various sets of modifiers can be defined for a behavior.
 
 BORIS App will show a page with all sets of modifiers defined for the current behavior.
 
-Example for one set of modifier (single item).
+Example for one set of modifiers (single item).
 
 .. image:: select_modifiers_1set_single.png
     :scale: 50%
+
+
+Example for one set of modifiers (multiple items). 2 modifiers are selected.
+
+.. image:: select_modifiers_1set_multiple.png
+    :scale: 50%
+
 
 Example for 2 sets of modifiers (single item):
 
 .. image:: select_modifiers_2sets.png
     :scale: 50%
+
 
 
 
@@ -260,9 +269,9 @@ The observation will be saved in the current project.
 
 8) Sending observation to BORIS desktop
 
-You can send an observation back to BORIS desktop
+You can send an observation back to BORIS running on your desktop/laptop computer (requires an internet connexion).
 
-* Start the project Server on BORIS desktop (**File > Porject server**)
+* Start the project Server on BORIS desktop (**File > Project server**)
 
 * On BORIS App, open the project containing the observation to send.
 
