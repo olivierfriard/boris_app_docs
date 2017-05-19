@@ -173,8 +173,8 @@ Start a new observation
 
 * Input a description for your observation (optional)
 
-* If independent variables are defined, click on the **Independent var** button
-and fill the value for each variable.
+* If independent variables are defined, click on the **Independent var** button and fill the value for each variable.
+
 
 .. image:: independent_variables.png
    :scale: 50%
