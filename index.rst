@@ -13,7 +13,7 @@ BORIS App user guide
 
 .. contents::
     :depth: 2
-    :backlinks: top
+    :backlinks: none
 
 
 
