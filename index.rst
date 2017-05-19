@@ -149,7 +149,8 @@ Open the project
 
 
 
-4) Start a new observation
+Start a new observation
+-----------------------
 
 * Press the **New observation** button
 
@@ -157,7 +158,8 @@ Open the project
 .. image:: new_observation.png
    :scale: 50%
 
-* Input an **Observation Id** (mandatory, this id must be unique in your project)
+
+* Input an **Observation id** (mandatory, this id must be unique in your project)
 
 * Change the date (optional, default: current date time)
 
@@ -173,6 +175,13 @@ and fill the value for each variable.
 
 You will obtain a screen with buttons corresponding to behaviors defined in your project.
 You can press it to code behaviors. The event time will be recorded in your observation.
+
+
+
+.. image:: running_observation_without_categories.png
+   :scale: 50%
+
+
 
 If behavioral categories are defined in your project, the behaviors will be grouped by category and
 buttons will be colored.
@@ -215,7 +224,7 @@ Modifiers
 
 If modifiers are defined for the triggered behavior, BORIS App will show the modifiers page.
 
-They are 3 type of modifiers:
+They are 3 types of modifiers:
 
 * Single item selection from a list
 
@@ -223,9 +232,14 @@ They are 3 type of modifiers:
 
 * Numerical
 
-BORIS App will show you the various
+Various sets of modifiers can be defined for a behavior.
 
+BORIS App will show a page with all sets of modifiers defined for the current behavior.
 
+Example for one set of modifier (single item).
+
+.. image:: modifiers_single_item.png
+   :scale: 50%
 
 
 
