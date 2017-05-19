@@ -150,7 +150,7 @@ Open the project
 
 BORIS App will show a summary of the selected project:
 
-.. image:: project_details.png.png
+.. image:: project_details.png
    :scale: 50%
 
 
