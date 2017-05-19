@@ -238,8 +238,13 @@ BORIS App will show a page with all sets of modifiers defined for the current be
 
 Example for one set of modifier (single item).
 
-.. image:: modifiers_single_item.png
-   :scale: 50%
+.. image:: select_modifiers_1set_single.png
+    :scale: 50%
+
+Example for 2 sets of modifiers (single item):
+
+.. image:: select_modifiers_2sets.png
+    :scale: 50%
 
 
 
