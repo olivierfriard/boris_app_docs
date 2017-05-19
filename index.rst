@@ -92,7 +92,9 @@ Launch the BORIS App
 
 
 
-2) Transfer your project from BORIS to BORIS App
+Transfer your project from BORIS to BORIS App
+---------------------------------------------
+
 
 * Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it)
 
@@ -125,7 +127,8 @@ The BORIS desktop should show you this message:
 
 
 
-3) Open the project
+Open the project
+-----------------
 
 * Press the **Open project** button
 
