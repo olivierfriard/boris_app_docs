@@ -91,9 +91,9 @@ Use
 
 
 
-2) Transfer your project from BORIS Desktop to BORIS App
+2) Transfer your project from BORIS to BORIS App
 
-* Launch **BORIS** on your Desktop or Laptop computer
+* Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it)
 
 The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthedocs.io>`_
 
