@@ -12,6 +12,7 @@ BORIS App user guide
 **Be careful! This version must be considered as an ALPHA version only for testing**
 
 .. contents::
+    :depth: 2
     :backlinks: none
 
 
