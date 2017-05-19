@@ -1,7 +1,8 @@
-********************
+====================
 BORIS App user guide
-********************
+====================
 
+:Author: `Olivier Friard <http://www.di.unito.it/~friard>`_
 
 .. image:: logo_boris_500px.png
    :scale: 300%
@@ -9,6 +10,9 @@ BORIS App user guide
 **version 0.2.0**
 
 **Be careful! This version must be considered as an ALPHA version only for testing**
+
+.. contents::
+    :backlinks: none
 
 
 
