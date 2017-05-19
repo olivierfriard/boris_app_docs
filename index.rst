@@ -71,7 +71,8 @@ Extract the ZIP archive on your computer and the extracted directory (boris_app)
 Use
 ===
 
-**1) Launch the BORIS App**
+Launch the BORIS App
+---------------------
 
 * Start **Kivy Launcher**
 
