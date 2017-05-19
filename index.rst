@@ -287,6 +287,11 @@ You can send an observation back to BORIS running on your desktop/laptop compute
 
 * Select the observation you want to send in the observations' list
 
+
+.. image:: send_observation1.png
+   :scale: 50%
+
+
 * Input the URL of project server
 
 .. image:: send_observation2.png
