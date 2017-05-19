@@ -238,18 +238,22 @@ Various sets of modifiers can be defined for a behavior.
 BORIS App will show a page with all sets of modifiers defined for the current behavior.
 
 Example for one set of modifiers (single item).
+...............................................
 
 .. image:: select_modifiers_1set_single.png
     :scale: 50%
 
 
 Example for one set of modifiers (multiple items). 2 modifiers are selected.
+............................................................................
+
 
 .. image:: select_modifiers_1set_multiple.png
     :scale: 50%
 
 
-Example for 2 sets of modifiers (single item):
+Example for 2 sets of modifiers (single item)
+..............................................
 
 .. image:: select_modifiers_2sets.png
     :scale: 50%
