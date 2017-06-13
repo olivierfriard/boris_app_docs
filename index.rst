@@ -107,8 +107,8 @@ Transfer your project from BORIS to BORIS App
 
 This operation requires an internet connexion.
 
-* Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it).
-This version of BORIS App works only with the **v. 4+** of BORIS Desktop.
+* Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it). This
+ version of BORIS App works only with the **v. 4+** of BORIS Desktop.
 
 The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthedocs.io>`_
 
