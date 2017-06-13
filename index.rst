@@ -98,12 +98,6 @@ Launch the BORIS App
 .. image:: home.png
    :scale: 50%
 
-* Press the **Download project** button
-
-.. image:: download_screen.png
-   :scale: 50%
-
-
 
 
 
@@ -125,7 +119,14 @@ The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthe
 .. image:: project_server.png
    :scale: 100%
 
-* On BORIS App check the "Download from BORIS" checkbox (default)
+
+* On BORIS App press the **Download project** button
+
+.. image:: download_screen.png
+   :scale: 50%
+
+
+* Check the "Download from BORIS" checkbox (default)
 
 * Input the URL shown in BORIS on Desktop/Laptop computer (for example 192.168.1.2:33149) without spaces
 
