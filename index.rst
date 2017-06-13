@@ -72,7 +72,10 @@ Extract the zip (or tar.gz) archive on your computer and copy the extracted dire
 
 For example:
 
-/sdcard/kivy/BORIS-App-VERSION
+.. code::
+ /sdcard/kivy/BORIS-App-VERSION
+
+
 
 
 **If the /sdcard/kivy directory does not exist on your Android device you must create it**
