@@ -75,7 +75,7 @@ For example:
 /sdcard/kivy/BORIS-App-VERSION
 
 
-** If the /sdcard/kivy directory does not exist you must create it**
+**If the /sdcard/kivy directory does not exist you must create it**
 
 
 Use
