@@ -68,7 +68,7 @@ The BORIS App is available on the BORIS App GitHub repository: `https://github.c
 
 
 
-Extract the zip (or tar.gz) archive on your computer and copy the extracted directory (BORIS-App-VERSION) to /sdcard/kivy/.
+Extract the zip (or tar.gz) archive on your computer and copy the extracted directory (BORIS-App-VERSION) to :code:`/sdcard/kivy/`.
 
 For example:
 
