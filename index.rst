@@ -39,7 +39,7 @@ Introduction
 
 **BORIS App** is an event logging app for live observations.
 
-**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software) and share with it the project format.
+**BORIS App** is designed to be used with **BORIS** (the Behavioral Observation Research Interactive Software http://www.boris.unito.it) and share with it the project format.
 
 **BORIS App** run on Android an is available as an APK file (you will NOT find it on Google Play for now).
 
