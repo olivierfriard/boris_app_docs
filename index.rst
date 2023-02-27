@@ -118,17 +118,11 @@ You will obtain a screen with buttons corresponding to behaviors defined in your
 You can press it to code behaviors. The event time will be recorded in your observation.
 
 
-
-.. image:: running_observation_without_categories.png
+.. image:: running_observation.png
    :scale: 50%
-
-
 
 If behavioral categories are defined in your project, the behaviors will be grouped by category and
 buttons will be colored.
-
-.. image:: running_observation.png
-   :scale: 50%
 
 
 
