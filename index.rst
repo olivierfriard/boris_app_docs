@@ -58,15 +58,7 @@ Download the APK file and save it on your Android device.
 Use
 ==========================================
 
-Launch the BORIS App
--------------------------------------------
 
-* Start **Kivy Launcher**
-
-.. image:: kivy_launcher.png
-   :scale: 50%
-
-* Select BORIS App, you should see the following screen:
 
 .. image:: home.png
    :scale: 50%
