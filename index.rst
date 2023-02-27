@@ -206,36 +206,6 @@ The observation will be saved in the current project.
 
 
 
-Sending observation to BORIS
------------------------------
-
-
-You can send an observation back to BORIS running on your desktop/laptop computer (requires an internet connexion).
-
-* Start the project Server on BORIS desktop (**File > Project server**)
-
-* On BORIS App, open the project containing the observation to send.
-
-* Press the **Send observation** button
-
-* Select the observation you want to send in the observations' list
-
-
-.. image:: send_observation1.png
-   :scale: 50%
-
-
-* Input the URL of project server
-
-.. image:: send_observation2.png
-   :scale: 50%
-
-* Press the **Send observation** button
-
-The observation will be added to the current project of BORIS desktop. If an observation with same id already exists
-BORIS will ask you for renaming it or overwriting it.
-
-
 Limitations
 ===========
 
