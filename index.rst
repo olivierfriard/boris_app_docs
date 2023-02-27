@@ -61,11 +61,10 @@ Installation
 Use
 ==========================================
 
-
+After launching the BORIS-App, the main window will appear:
 
 .. image:: home.png
    :scale: 50%
-
 
 
 
