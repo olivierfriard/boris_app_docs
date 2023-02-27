@@ -50,9 +50,12 @@ Installation
 ==========================================
 
 
-The BORIS App is available on the BORIS App GitHub repository: `https://github.com/olivierfriard/BORIS-App/releases <https://github.com/olivierfriard/BORIS-App/releases>`_
+* Download the last version of the APK file from the GitHub repository release page:
 
-Download the APK file and save it on your Android device.
+`https://github.com/olivierfriard/BORIS-App/releases <https://github.com/olivierfriard/BORIS-App/releases>`_
+
+* Follow `How to Install APK on Android <https://www.lifewire.com/install-apk-on-android-4177185>`_ to install
+
 
 
 Use
