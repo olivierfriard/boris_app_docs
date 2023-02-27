@@ -199,7 +199,7 @@ Example for 2 sets of modifiers (single item)
 Stop the observation
 ---------------------
 
-* Press the **Stop observation** red button. Confirm that you want to quit.
+* Press the **Stop observation** red button. Confirm that you want to stop the observation.
 
 The observation will be saved in the current project.
 
