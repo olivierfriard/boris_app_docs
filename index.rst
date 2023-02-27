@@ -1,13 +1,13 @@
-====================
+==========================================
 BORIS App user guide
-====================
+==========================================
 
 :Author: `Olivier Friard <http://www.di.unito.it/~friard>`_
 
 .. image:: logo_boris_500px.png
    :scale: 300%
 
-**version 0.2.2**
+**version 0.4**
 
 **Be careful! This version must be considered as an ALPHA version only for testing**
 
@@ -18,9 +18,9 @@ BORIS App user guide
 
 
 Legal
-=====
+==========================================
 
-Copyright 2017 Olivier Friard - Marco Gamba
+Copyright 2017-2023 Olivier Friard - Marco Gamba
 
 **BORIS App** is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -34,7 +34,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 
 
 Introduction
-============
+==========================================
 
 
 **BORIS App** is an event logging app for live observations.
@@ -47,10 +47,10 @@ Introduction
 
 
 Installation
-============
+==========================================
 
 Install the Kivy Launcher
--------------------------
+-------------------------------------------
 
 BORIS App is developped in Python using `Kivy <https://kivy.org>`_ as user interface.
 You must install the Kivy Launcher on your Android device before installing BORIS App.
@@ -61,7 +61,7 @@ You can run Kivy applications on Android, on any device with Android 2.2 +.
 
 
 Install BORIS App on your Android device
-----------------------------------------
+-------------------------------------------
 
 The BORIS App is available on the BORIS App GitHub repository: `https://github.com/olivierfriard/BORIS-App/releases <https://github.com/olivierfriard/BORIS-App/releases>`_
 
@@ -83,10 +83,10 @@ For example:
 
 
 Use
-===
+==========================================
 
 Launch the BORIS App
----------------------
+-------------------------------------------
 
 * Start **Kivy Launcher**
 
