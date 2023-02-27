@@ -67,59 +67,16 @@ Use
 
 
 
-Transfer your project from BORIS to BORIS App
----------------------------------------------
 
-This operation requires an internet connexion.
-
-* Launch **BORIS** on your desktop or laptop computer (see www.boris.unito.it). This version of BORIS App works only with the **v. 4+** of BORIS Desktop.
-
-The BORIS user guide is available at `boris.readthedocs.io <http://boris.readthedocs.io>`_
-
-
-* Open the project containing the ethogram you want to transfer to BORIS App
-
-* Start the project server (File > Project server)
-
-.. image:: project_server.png
-   :scale: 100%
-
-
-* On BORIS App press the **Download project** button
-
-.. image:: download_screen.png
-   :scale: 50%
-
-
-* Check the "Download from BORIS" checkbox (default)
-
-* Input the URL shown in BORIS on Desktop/Laptop computer (for example 192.168.1.2:33149) without spaces
-
-* Press the **Download project** button
-
-You should receive the project from BORIS Desktop and obtain the following message:
-
-.. image:: download_successfull.png
-   :scale: 50%
-
-The BORIS desktop should show you this message:
-
-.. image:: project_sent.png
-   :scale: 100%
-
-
-
-
-
-
-Open the project
+Open a project
 -----------------
 
 * Press the **Open project** button
 
-* Select the new downloaded project
+A list of BORIS project files will open
 
-* Press the **Open project** button
+
+* Select a file and press the **Open project** button
 
 
 BORIS App will show a summary of the selected project:
