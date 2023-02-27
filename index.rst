@@ -76,6 +76,11 @@ Open a project
 A list of BORIS project files will open
 
 
+.. image:: project_list.png
+   :scale: 50%
+
+
+
 * Select a file and press the **Open project** button
 
 
