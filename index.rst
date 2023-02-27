@@ -24,7 +24,7 @@ Copyright 2017-2023 Olivier Friard - Marco Gamba
 
 **BORIS App** is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2, or any later version.
+the Free Software Foundation; either version 3, or any later version.
 
 **BORIS App** is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -39,9 +39,9 @@ Introduction
 
 **BORIS App** is an event logging app for live observations.
 
-**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software, v. 4+) and share with it the project format.
+**BORIS App** is designed to be used with **BORIS** (Behavioral Observation Research Interactive Software) and share with it the project format.
 
-**BORIS App** run on Android (2.2+). You will have to install the `Kivy Launcher <https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en>`_
+**BORIS App** run on Android an is available as an APK file (you will NOT find it on Google Play for now).
 
 
 
@@ -49,37 +49,10 @@ Introduction
 Installation
 ==========================================
 
-Install the Kivy Launcher
--------------------------------------------
-
-BORIS App is developped in Python using `Kivy <https://kivy.org>`_ as user interface.
-You must install the Kivy Launcher on your Android device before installing BORIS App.
-
-https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en
-
-You can run Kivy applications on Android, on any device with Android 2.2 +.
-
-
-Install BORIS App on your Android device
--------------------------------------------
 
 The BORIS App is available on the BORIS App GitHub repository: `https://github.com/olivierfriard/BORIS-App/releases <https://github.com/olivierfriard/BORIS-App/releases>`_
 
-
-
-
-Extract the zip (or tar.gz) archive on your computer and copy the extracted directory (BORIS-App-VERSION) to :code:`/sdcard/kivy/`.
-
-For example:
-
-.. code::
-
- /sdcard/kivy/BORIS-App-VERSION
-
-
-
-
-**If the /sdcard/kivy directory does not exist on your Android device you must create it**
+Download the APK file and save it on your Android device.
 
 
 Use
