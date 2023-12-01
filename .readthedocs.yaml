@@ -7,13 +7,19 @@ version: 2
 
 # Set the version of Python and other tools you might need
 build:
-  os: ubuntu-22.04
+  os: "ubuntu-22.04"
   tools:
     python: "3.11"
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
   configuration: conf.py
+<<<<<<< HEAD
+=======
+
+formats:
+  - pdf
+>>>>>>> f399eabd9d79a00c63e9fec375c6e121b208f407
 
 # We recommend specifying your dependencies to enable reproducible builds:
 # https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
