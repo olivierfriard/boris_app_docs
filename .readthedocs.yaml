@@ -14,12 +14,9 @@ build:
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
   configuration: conf.py
-<<<<<<< HEAD
-=======
 
 formats:
   - pdf
->>>>>>> f399eabd9d79a00c63e9fec375c6e121b208f407
 
 # We recommend specifying your dependencies to enable reproducible builds:
 # https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
