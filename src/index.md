@@ -4,18 +4,15 @@ author:
 title: BORIS App user guide
 ---
 
-![image](logo_boris_500px.png)
+![image](images/logo_boris.svg)
 
 **version 0.4**
 
-**Be careful! This version must be considered as an ALPHA version only
-for testing**
+**Be careful! This version must be considered as an ALPHA version only for testing**
 
-::: {.contents depth="2" backlinks="none"}
-:::
 
-Legal
-=====
+
+# Legal
 
 Copyright 2023 Olivier Friard - Marco Gamba
 
@@ -29,20 +26,19 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU
 General Public License](http://www.gnu.org/copyleft/gpl.html) for more
 details.
 
-Introduction
-============
 
-**BORIS App** is an event logging app for live observations.
+# Introduction
 
-**BORIS App** is designed to be used with **BORIS** (the Behavioral
-Observation Research Interactive Software <http://www.boris.unito.it>)
-and share with it the project format.
 
-**BORIS App** run on Android an is available as an APK file (you will
-NOT find it on Google Play for now).
+**BORIS-App** is an event logging app for live observations.
 
-Installation
-============
+**BORIS-App** is designed to be used with **BORIS** (the Behavioral Observation Research Interactive Software <http://www.boris.unito.it>) and share with it the project format.
+
+**BORIS-App** runs on Android an is available as an APK file (you will NOT find it on Google Play for now).
+
+
+# Installation
+
 
 -   Download the last version of the APK file from the GitHub repository
     release page:
@@ -53,34 +49,33 @@ Installation
     Android](https://www.lifewire.com/install-apk-on-android-4177185) to
     install
 
-Use
-===
+# Use
 
-After launching the BORIS-App, the main window will appear:
 
-![image](home.png)
+After launching the **BORIS-App**, the main window will appear:
 
-Open a project
---------------
+![Home page](images/home.png)
+
+## Open a project
+
 
 -   Press the **Open project** button
 
 A list of BORIS project files will open
 
-![image](project_list.png)
+![image](images/project_list.png)
 
 -   Select a file and press the **Open project** button
 
 BORIS App will show a summary of the selected project:
 
-![image](project_details.png)
+![image](images/project_details.png)
 
-Start a new observation
------------------------
+## Start a new observation
 
 -   Press the **New observation** button
 
-![image](new_observation.png)
+![image](images/new_observation.png)
 
 -   Input an **Observation id** (mandatory, this id must be unique in
     your project)
@@ -89,7 +84,7 @@ Start a new observation
 -   If independent variables are defined, click on the **Independent
     var** button and fill the value for each variable.
 
-![image](independent_variables.png)
+![image](images/independent_variables.png)
 
 -   Press the **Start observation** button
 
@@ -97,34 +92,43 @@ You will obtain a screen with buttons corresponding to behaviors defined
 in your project. You can press it to code behaviors. The event time will
 be recorded in your observation.
 
-![image](running_observation.png)
+![image](images/running_observation.png)
 
 If behavioral categories are defined in your project, the behaviors will
 be grouped by category and buttons will be colored.
 
-Select the focal subject
-------------------------
+
+
+
+## Select the focal subject
+
 
 -   Press the **Select focal subject** button
 -   Select the focal subject. If the focal subject is already selected,
     the subject will be deselected.
 
-![image](select_focal_subject.png)
+![image](images/select_focal_subject.png)
 
 The focal subject will be show in the green button (at left bottom).
 
-![image](running_observation_selected_subject.png)
+![image](images/running_observation_selected_subject.png)
 
-State events
-------------
+
+
+
+## State events
+
 
 If you press on a state event, the corresponding behavior button will be
 highlighted in red until you press it again to stop the state event.
 
-![image](state_event.png)
+![image](images/state_event.png)
 
-Modifiers selection
--------------------
+
+
+
+## Modifiers selection
+
 
 If modifiers are defined for the triggered behavior, BORIS App will show
 the modifiers page.
@@ -140,30 +144,39 @@ Various sets of modifiers can be defined for a behavior.
 BORIS App will show a page with all sets of modifiers defined for the
 current behavior.
 
+
+
 ### Example for one set of modifiers (single item).
 
-![image](select_modifiers_1set_single.png)
+![image](images/select_modifiers_1set_single.png)
+
+
 
 ### Example for one set of modifiers (multiple items). 2 modifiers are selected.
 
-![image](select_modifiers_1set_multiple.png)
+![image](images/select_modifiers_1set_multiple.png)
+
 
 ### Example for 2 sets of modifiers (single item)
 
-![image](select_modifiers_2sets.png)
+![image](images/select_modifiers_2sets.png)
 
-Stop the observation
---------------------
+
+
+## Stop the observation
 
 -   Press the **Stop observation** red button. Confirm that you want to
     stop the observation.
 
 The observation will be saved in the current project.
 
-Limitations
-===========
+To analyze the new observation(s) with **BORIS**, transfer the BORIS project file on your computer and open it with BORIS.
+
+
+
+# Limitations
+
 
 These limitations should be fixed in next releases.
 
--   BORIS App can not handle independent variables defined as **set of
-    values**
+-   BORIS App can not handle independent variables defined as **set of values**

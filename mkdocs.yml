@@ -1,4 +1,4 @@
-site_name: BORIS user guide
+site_name: BORIS App user guide
 site_author: Olivier Friard
 
 docs_dir: src
@@ -64,10 +64,10 @@ plugins:
         minify_html: true
     - with-pdf:
         author: "Olivier Friard and Marco Gamba"
-        cover_title: "BORIS user guide"
+        cover_title: "BORIS App user guide"
         cover_subtitle: v. 8.25.4
         cover_logo: src/images/logo_boris.svg
-        output_path: pdf/boris_user_guide.pdf
+        output_path: pdf/boris_app_user_guide.pdf
 
 extra:
   generator: true
